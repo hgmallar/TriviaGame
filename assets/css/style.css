@@ -1,0 +1,25 @@
+body {
+    background-image: url("../images/pexels-photo-775907.jpeg");
+}
+
+.jumbotron{
+    margin: 5% auto;
+    height: 870px;
+    max-height: 90%;
+}
+
+input[type="radio"]{
+    margin: 0 20px;
+}
+
+h5{
+    margin-top: 10px;
+}
+
+form{
+    text-align: center;
+}
+
+.third{
+    margin-top: 5%;
+}
