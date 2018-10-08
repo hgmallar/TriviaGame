@@ -4,7 +4,7 @@ body {
 
 .jumbotron{
     margin: 5% auto;
-    height: 870px;
+    height: 500px;
     max-height: 90%;
 }
 
@@ -12,14 +12,24 @@ input[type="radio"]{
     margin: 0 20px;
 }
 
-h5{
+h4{
     margin-top: 10px;
 }
 
-form{
-    text-align: center;
+.questions{
+   text-align: center;
 }
 
-.third{
-    margin-top: 5%;
+.choices, #restart-button{
+    width: 50%;
+    margin: 0 auto;
 }
+
+.choices:hover, #restart-button:hover{
+    font-weight: bold;
+    background-color: aquamarine;
+    border: solid 2px cornflowerblue;
+}
+
+
+
