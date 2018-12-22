@@ -1,5 +1,7 @@
 # TriviaGame
 
+![frontpage image](trivia.PNG)
+
 ## Trivia Game
 * Math/logic themed timed trivia game.  Score is tallied.
 
